@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@discord-player/extractor": "^4.5.1",
+    "discord-player": "^6.7.1",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "youtube-ext": "^1.1.25"
+  },
+  "name": "oreno-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
